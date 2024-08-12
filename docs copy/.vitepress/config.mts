@@ -3,9 +3,9 @@ import { figure } from "@mdit/plugin-figure";
 import { tasklist } from "@mdit/plugin-tasklist";
 
 const info = {
-  title: "R4FO.com",
+  title: "Aplós",
   description:
-  "Free Public Private Frontends so you can use all the popular platforms without exposure to 📢 ads, 👁️ tracking and ☝️fingerprinting",
+    "A sleek, contemporary, and purposefully designed theme and template",
   accentColor: "#55B458",
 };
 
@@ -21,51 +21,46 @@ export default defineConfig({
   themeConfig: {
     links: "icons",
     locale: "en-GB",
-    author: "Rafo",
+    author: "Gabriel Cozma",
 
     articles: {
       giscus: {
         repo: "aplosdev/aplos",
         repoid: "R_kgDOLYNrKA",
         categoryid: "DIC_kwDOLYNrKM4Cghru",
-        category: "Article Comments",
+        category: "Article Comments Demo",
         mapping: "title",
         theme: "preferred_color_scheme",
       },
     },
     nav: {
       links: [
-        { url: "/services", text: "🖥️ Services" },
-        { url: "/donate", text: "❤️ Donate" },
-        { url: "https://status.r4fo.com", text: "📊 Status" },
-        { url: "/contact/", text: "✉️ Contact" },
+        { url: "/demo/", text: "Demo" },
+        { url: "/boosts/", text: "Boosts" },
+        { url: "/guide/", text: "Guide" },
       ],
-      git: "https://github.com/r2fo/r4fo.com-v2",
+      git: "https://github.com/aplosdev/aplos",
     },
     footer: {
-      copyright: false,
+      copyright: true,
       poweredBy: true,
 
-      links: [
-        { url: "/privacypolicy", text: "Privacy" },
-        { url: "/termsofservice/", text: "Terms" },
-        { url: "/canary.txt", text: "Canary" },
-      ],
+      links: [{ url: "/static", text: "Static" }],
 
       madeby: {
-        show: false,
+        show: true,
         name: "Gabs",
         link: "https://gxbs.me/",
       },
 
       copyleft: {
-        show: false,
+        show: true,
         license: "MIT License",
         info: "https://github.com/aplosdev/aplos?tab=MIT-1-ov-file#readme",
       },
 
       sourcecode: {
-        show: false,
+        show: true,
         link: "https://github.com/aplosdev/aplos",
       },
     },
@@ -105,7 +100,7 @@ export default defineConfig({
       "meta",
       {
         name: "og:image",
-        content: "https://r4fo.com/images/site-logo.svg",
+        content: "https://aplos.gxbs.me/images/banner.png",
       },
     ],
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
@@ -113,7 +108,7 @@ export default defineConfig({
       "meta",
       {
         name: "twitter:image",
-        content: "https://r4fo.com/images/site-logo.svg",
+        content: "https://aplos.gxbs.me/images/banner.png",
       },
     ],
     ["meta", { name: "twitter:title", content: info.title }],
@@ -124,14 +119,11 @@ export default defineConfig({
         content: info.description,
       },
     ],
-    ["meta", { name: "twitter:url", content: "https://r4fo.com" }],
+    ["meta", { name: "twitter:url", content: "https://aplos.gxbs.me" }],
   ],
   sitemap: {
-    hostname: "https://r4fo.com",
+    hostname: "https://aplos.gxbs.me",
   },
-  boosts: [
-    "sticky-nav",
-  ],
   vite: {
     ssr: {
       noExternal: ["vitepress-plugin-testcomponents"],

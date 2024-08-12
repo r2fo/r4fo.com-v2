@@ -46,8 +46,7 @@ const { theme } = useData();
       }}</a>
     </p>
     <small v-if="theme.footer.poweredBy" id="powered">
-      Powered by <a href="https://vitepress.dev/">VitePress</a> and
-      <a href="https://aplos.gxbs.me" title="v1.5.0 (prerelease)">Aplós</a>
+      Hosted by <a href="https://r4fo.com/">R4FO.COM Privacy Services</a> in 🇪🇺
     </small>
     <small v-if="theme.footer.message">{{ theme.footer.message }}</small>
   </footer>
