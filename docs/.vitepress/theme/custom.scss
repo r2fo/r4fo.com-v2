@@ -9,8 +9,25 @@
 .home {
   #title {
     margin: 0;
+    font-size: 3.5rem;
     color: var(--color-accent);
+
+    @media (prefers-color-scheme: dark) {
+      background: linear-gradient(95deg, #ffffff 32.27%, #ffffff 68.51%);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    @media (prefers-color-scheme: light) {
+      background: linear-gradient(95deg, #000000 32.27%, #000000 68.51%);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+
+  #subline {
+    margin: 0;
     font-size: 2.5rem;
+    color: var(--color-accent);
 
     @media (prefers-color-scheme: dark) {
       background: linear-gradient(95deg, #55b458 32.27%, #a7ffaa 68.51%);
