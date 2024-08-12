@@ -4,17 +4,16 @@ layout: helpful
 # Takedowns
 ## Please read this carefully before requesting any takedowns
 
-All of our services operate as **proxies**, facilitating access to content hosted on their original platform. <br>
-We **do not** host any content.
-To request content removal, please contact the original platform directly. <br>
-After they remove the content, it is automatically removed from our services as well.
+### For bin.r4fo.com
+All content hosted on bin.r4fo.com is user-uploaded. We are not responsible for the content uploaded by users.  <br>
+If you believe something may violate our [Terms of Service](https://r4fo.com/termsofservice/#bin-terms), please contact us at ```abuse [AT] r4fo [DOT] com```
 
-<br>
+### For everything else
+All services, except bin.r4fo.com, operate as **proxies**, facilitating access to content hosted on their original platform. We **do not** host any content.
+To request content removal, please contact the original platform directly. After they remove the content, it is automatically removed from our services as well.
 
 If you still want to contact us, send an email to ```copyright [AT] r4fo [DOT] com``` <br>
 ⚠️ Please note that submitting incorrect takedown requests is illegal and may result in legal consequences.
-
-<br>
 
 Our servers are located in Europe and are subject to European law, particularly directive 2001/29/EC:
 

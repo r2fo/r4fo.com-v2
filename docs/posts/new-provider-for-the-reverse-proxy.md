@@ -8,10 +8,8 @@ language: en
 featured_image: 
 summary: Making sure we stay resilient
 description: Making sure we stay resilient
-author: Admin
-authorimage: ../assets/images/global/author.webp
 tags: 
-    - Servers
+    - Infrastructure
 ---
 
 As you may know from [this](https://r4fo.com/posts/new-server/) post, I use a reverse proxy for some 'problematic' services to counter fake content claims.

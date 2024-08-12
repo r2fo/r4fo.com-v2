@@ -5,11 +5,9 @@ title: "New 🐦 Nitter instance!"
 date: 2024-02-29T17:55:36+02:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/nitter.webp
+banner: ../assets/images/featured/nitter.webp
 summary: One of the last Nitter instances alive
 description: One of the last Nitter instances alive
-author: Admin
-authorimage: ../assets/images/global/author.webp
 tags:
     - New instances
 ---

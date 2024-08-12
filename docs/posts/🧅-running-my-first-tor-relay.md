@@ -5,16 +5,13 @@ title: "🧅 Running my first Tor Relay"
 date: 2023-11-28T20:22:36+02:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/tor.webp
+banner: ../assets/images/featured/tor.webp
 summary: Now I'm a Tor Relay Operator as well!
 description: Now I'm a Tor Relay Operator as well!
-author: Admin
-authorimage: ../assets/images/global/author.webp
 prev: 🥳 New site!
 next: 📊 Selfhosting the status page
 tags:
     - Tor
-    - News
 ---
 
 ![](/assets/images/featured/tor.webp)

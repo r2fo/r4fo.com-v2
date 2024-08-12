@@ -6,13 +6,11 @@ date: 2024-02-03T22:12:36+02:00
 update: 2024-02-29T22:12:36+02:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/server.webp
+banner: ../assets/images/featured/server.webp
 summary: Enhancing the resilience of my infrastructure
 description: Enhancing the resilience of my infrastructure
-author: Admin
-authorimage: ../assets/images/global/author.webp
 tags:
-    - Servers
+    - Infrastructure
 ---
 
 ![](/assets/images/featured/server.webp)

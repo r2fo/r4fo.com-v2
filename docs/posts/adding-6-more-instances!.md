@@ -2,9 +2,8 @@
 layout: article
 comments: giscus
 title: "Adding 6 more instances!"
-author: Admin
 description: Expanding the scope of r4fo.com
-featured_image: ../assets/images/featured/billboard.webp
+banner: ../assets/images/featured/billboard.webp
 date: 2023-12-11T17:55:36+02:00
 prev: Switching to Cloudflare Pages
 next: Disabling Cloudflare for most services

@@ -27,15 +27,17 @@ const { theme } = useData();
         </li>
       </ul>
     </nav>
+    <!--
     <p
       v-if="!theme.footer.custom?.copyright"
       id="copyright"
       :title="'Last Updated At: ' + new Date().toLocaleString()"
     >
-      &copy; <b>{{ theme.author }}</b
+      &copy; <b>test</b
       >, <span v-if="theme.footer.startYear">{{ theme.footer.startYear }}-</span
       >{{ new Date().getFullYear() }}
     </p>
+    -->
     <p v-else>
       {{ theme.footer.custom?.copyright }}
     </p>

@@ -5,16 +5,14 @@ title: "Switching to Cloudflare Pages"
 date: 2023-12-03T17:55:36+02:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/cfpages.webp
+banner: ../assets/images/featured/cfpages.webp
 summary: r4fo.com is no longer being hosted by GitHub Pages
 description: r4fo.com is no longer being hosted by GitHub Pages
-author: Admin
-authorimage: ../assets/images/global/author.webp
 prev: 📊 Selfhosting the status page
 next: Adding 6 more instances!
 tags:
     - Cloudflare
-    - News
+    - Infrastructure
 ---
 
 ![](/assets/images/featured/cfpages.webp)

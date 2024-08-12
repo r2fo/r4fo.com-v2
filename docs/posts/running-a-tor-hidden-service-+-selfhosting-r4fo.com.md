@@ -6,14 +6,12 @@ date: 2023-12-15T17:40:36+02:00
 update: 2023-12-18T22:12:36+02:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/torhiddenservice.webp
+banner: ../assets/images/featured/torhiddenservice.webp
 summary: Bye bye Cloudflare Pages!
 description: Bye bye Cloudflare Pages!
-author: Admin
-authorimage: ../assets/images/global/author.webp
 tags:
     - Tor
-    - News
+    - Infrastructure
 ---
 
 ![](/assets/images/featured/torhiddenservice.webp)

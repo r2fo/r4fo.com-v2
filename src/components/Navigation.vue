@@ -84,16 +84,17 @@ header {
   nav {
     @include blurredBackground;
     position: fixed;
+    top: 3rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
     z-index: 9999;
-    margin-top: 1rem;
     border: 0.4px solid var(--color-border);
     border-radius: 2.5rem;
     background-color: none;
     background-color: var(--color-header);
     padding: 0.0625rem 1.5625rem;
-    max-width: 90%;
+    overflow: hidden;
     text-align: center;
-    transition: background-color 0.4s ease;
 
     &:hover {
       background-color: var(--color-header-hover);

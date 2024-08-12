@@ -5,11 +5,9 @@ title: "Introducing AI powered search"
 date: 2024-04-27T23:04:36+02:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/aisearch.webp
+banner: ../assets/images/featured/aisearch.webp
 summary: Benefits of AI, with the privacy benefit of on device processing
 description: Benefits of AI, with the privacy benefit of on device processing
-author: Admin
-authorimage: ../assets/images/global/author.webp
 tags: 
     - New instances
 ---

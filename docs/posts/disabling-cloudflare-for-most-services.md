@@ -6,16 +6,14 @@ date: 2023-12-13T19:51:36+02:00
 update: 2024-6-21T19:51:36+02:00
 draft: false
 language: en
-featured_image: ../assets/images/featured/orangecloud.webp
+banner: ../assets/images/featured/orangecloud.webp
 summary: r4fo.com's infrastructure has outgrown the need for a third party MITM
 description: r4fo.com's infrastructure has outgrown the need for a third party MITM
-author: Admin
-authorimage: ../assets/images/global/author.webp
 prev: Adding 6 more instances!
 next: Running a Tor Hidden Service + selfhosting r4fo.com
 tags:
     - Cloudflare
-    - News
+    - Infrastructure
 ---
 
 ![](/assets/images/featured/orangecloud.webp)

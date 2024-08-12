@@ -7,11 +7,9 @@ draft: false
 language: en
 summary: Now we have way more bandwidth and can provide services to more people.
 description: Now we have way more bandwidth and can provide services to more people.
-author: Admin
-authorimage: ../assets/images/global/author.webp
 next: 🥳 New site!
 tags:
-    - Servers
+    - Infrastructure
 ---
 
 My Piped instance's user base is growing rapidly, and I was on the edge of the Oracle server's bandwidth limit (10TB). I stumbled on Netcup's rootserver and with a substantial 120TB bandwidth, it is more than enough for the current usage that my Piped instance gets. Past friday (24/11), was migration day for Piped, all other services will continue to run on the Oracle server in Amsterdam.

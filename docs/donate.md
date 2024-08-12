@@ -30,6 +30,7 @@ a img {
 }
 </style>
 
+# Donate
 ## Transparency
 All proceeds will be used to pay for the infrastructure costs. The rest will be kept for the upcoming months.
 Here is an overview of my monthly expenses:
