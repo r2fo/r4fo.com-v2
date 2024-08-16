@@ -4,6 +4,11 @@ pageClass: home
 
 ![](/assets/images/pages/full.jpg#full)
 
+::: warning
+This site is work in progress and content may be outdated.  
+For the actual up-to-date site, see https://r4fo.com
+:::
+
 # R4fo.com {.center #title}
 # Privacy Services {.center #subline}
 ### Use all the popular platforms without exposure to 📢 ads, 👁️ tracking and ☝️fingerprinting {.center #desc}

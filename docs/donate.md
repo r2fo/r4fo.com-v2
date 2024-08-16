@@ -35,12 +35,11 @@ a img {
 All proceeds will be used to pay for the infrastructure costs. The rest will be kept for the upcoming months.
 Here is an overview of my monthly expenses:
 
-|Total:|~€14,42 / month|   |
+|Total:|~€11.25 / month|   |
 |---|---|---|
-|Domain|€9 / year||
-|Oracle server|€0|general|
-|Netcup server|€30 / quarter|video|
-|BuyVM server|€11 / quarter|reverse proxy|
+|Domain|€15 / year||
+|Oracle server|€0|general hosting|
+|Netcup server|€30 / quarter|video streaming|
 
 <br>
 <hr>
@@ -64,24 +63,24 @@ For one time donations, choose Ko-Fi
 
 <div class="donation-container">
   <div class="donation-item">
-    <img src="/images/icons/xmr.svg" alt="Monero" height="100"/>
+    <img src="/images/icons/xmr.png" alt="Monero" height="100"/>
     <span class="wallet-address"><code>89dEuYmDRW3RmpeYRe7SkeSUDz81mKpR58peNTyHWuqWL7C8K4j6KPNDry9UCJP9z8K8mSTbEyENHGw6WPRY9V7TNW365Vb</code></span>
   </div>
   <div class="donation-item">
-    <img src="/images/icons/btc.svg" alt="Bitcoin" height="100"/>
+    <img src="/images/icons/btc.png" alt="Bitcoin" height="100"/>
     <span class="wallet-address"><code>bc1q0v4kawv2krcvfkjm3waznnffymr0qv47fp9cs9</code></span>
   </div>
   <div class="donation-item">
-    <img src="/images/icons/ethereum.svg" alt="Ethereum" height="100"/>
+    <img src="/images/icons/eth.png" alt="Ethereum" height="100"/>
     <span class="wallet-address"><code>0xba7d57cafc42f800b1f0ba6c9bf976422804cbed</code></span>
   </div>
   <div class="donation-item">
-    <img src="/images/icons/litecoin.svg" alt="Litecoin" height="100"/>
+    <img src="/images/icons/ltc.png" alt="Litecoin" height="100"/>
     <span class="wallet-address"><code>ltc1qcl8ctr90vnku5qehfjznny7mls40tygzcyfuw9</code></span>
   </div>
   <div class="donation-item">
-    <img src="/images/icons/xno.svg" alt="Nano" height="100"/>
-    <span class="wallet-address"><code>ltc1qcl8ctr90vnku5qehfjznny7mls40tygzcyfuw9</code></span>
+    <img src="/images/icons/nano.png" alt="Nano" height="100"/>
+    <span class="wallet-address"><code>nano_3thcxq1jbhunqoiubiyg9xinnr6wxb3d9c5fcxoqxwxa33wnj5qb141zrg6j</code></span>
   </div>
 </div>
 
